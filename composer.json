@@ -1,0 +1,14 @@
+{
+    "name": "fabricio/jogos",
+    "description": "php7",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabricio Fernandes",
+            "email": "clf.fabricio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
